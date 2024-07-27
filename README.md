@@ -2,19 +2,6 @@
 
 A data-driven approach to select the optimal cricket team based on player performance metrics and team composition constraints.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-- [Player Selection Strategy](#player-selection-strategy)
-- [Optimization Technique](#optimization-technique)
-- [Scalability](#scalability)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 This project aims to analyze cricket player performance data and select the best possible team of 11 players while adhering to specific constraints. It involves data cleaning, statistical analysis, and optimization techniques to ensure a balanced and high-performing team selection.
@@ -29,19 +16,13 @@ This project aims to analyze cricket player performance data and select the best
 
 ## Tech Stack
 
-- Python
-- Excel
-- NumPy
-- Pandas
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Installation
 
 1. Clone the repository: git clone https://github.com/chetanyamahana/Cricket-Analytics
-
-
-## Usage
-
-[Provide instructions on how to run the main script or use the project]
 
 ## Data Cleaning and Preparation
 
